@@ -14,4 +14,6 @@
  
 ### Target
  - 过好每一天, 演好当下的剧本, 朝着心中的那个标杆去前进, 你最重要是做你觉得正确的事情, 最重要是你听不到内心对你的抱怨, 最重要是多年以后的你能够看得起现在的你! 
-![diligent](https://pic.imgdb.cn/item/621c543e2ab3f51d9109ac9c.png)
+
+
+![diligent](https://github.com/H3rmesk1t/H3rmesk1t/blob/main/image.png)
