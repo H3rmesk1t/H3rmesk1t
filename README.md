@@ -1,5 +1,5 @@
 ### 😄 Thanks for browsing my Github, I'm H3rmesk1t 😄
-src="https://github-readme-stats.vercel.app/api?username=H3rmesk1t&show_icons=true&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=H3rmesk1t&show_icons=true&theme=radical">
 
 <!--
 **H3rmesk1t/H3rmesk1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
