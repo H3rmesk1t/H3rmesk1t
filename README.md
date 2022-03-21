@@ -7,7 +7,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=H3rmesk1t&show_icons=true&theme=radical">
 
 ### Personal Profile
- - 🔭 CDUT-D1no
+ - 🔭 CDUT-D1no && Dest0g3
  - 🌱 Cyber Security
  - 📫 QQ: 952359549
  - 📫 Gmail: lyj952359549@gmail.com
