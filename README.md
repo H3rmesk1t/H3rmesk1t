@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/H3rmesk1t?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/H3rmesk1t?style=social)
 
-![Top Langs](https://profile-counter.glitch.me/H3rmesk1t/count.svg)](https://github.com/H3rmesk1t)
+[![Top Langs](https://profile-counter.glitch.me/H3rmesk1t/count.svg)](https://github.com/H3rmesk1t)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=H3rmesk1t&show_icons=true&theme=radical">
 
