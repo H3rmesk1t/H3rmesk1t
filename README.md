@@ -1,16 +1,15 @@
-### Thanks for browsing my Github, I'm H3rmesk1t.
+### About Me 👋
 
-![GitHub followers](https://img.shields.io/github/followers/H3rmesk1t?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/H3rmesk1t?style=social)
+ID: H3rmesk1t
 
-[![Top Langs](https://profile-counter.glitch.me/H3rmesk1t/count.svg)](https://github.com/H3rmesk1t)
+Postgraduate Student, UESTC-NSTL
+
+Focus on Web Security and Forensics, also interested in binary security
+
+Active in D1no && YulinSec
+
+Email: [lyj952359549@gmail.com](mailto:lyj952359549@gmail.com)
+
+WeChat: H3rmesk1t
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=H3rmesk1t&show_icons=true&theme=radical">
-
-### Personal Profile
- - 🔭 D1no && Dest0g3
- - 🌱 Cyber Security
- - 📫 QQ: 952359549
- - 📫 Gmail: lyj952359549@gmail.com
- 
-### Target
- - 过好每一天, 演好当下的剧本, 朝着心中的那个标杆去前进, 你最重要是做你觉得正确的事情, 最重要是你听不到内心对你的抱怨, 最重要是多年以后的你能够看得起现在的你! 
