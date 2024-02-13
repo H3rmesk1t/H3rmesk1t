@@ -3,12 +3,7 @@
 
 ID: H3rmesk1t
 
-Postgraduate Student, UESTC-NSTL
-
-Focus on Web Security and Forensics
-
-Also interested in binary security
+Learning Web Security, Cloud Security and Forensics
 
 Email: [lyj952359549@gmail.com](mailto:lyj952359549@gmail.com)
 
-WeChat: H3rmesk1t
